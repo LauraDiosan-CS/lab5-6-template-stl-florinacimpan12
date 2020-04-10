@@ -1,0 +1,5 @@
+1 Cookies  5
+2 Water  6
+3 Cips  4
+4 Cake  17
+5 candy  1

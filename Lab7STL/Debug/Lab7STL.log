@@ -1,0 +1,29 @@
+﻿  Tests.cpp
+D:\lab5-6-template-stl-CoroamaDianaMihaela-master\Laboratorul_6_7\RepoSTL.h(113,2): warning C4018: '<': signed/unsigned mismatch
+D:\lab5-6-template-stl-CoroamaDianaMihaela-master\Laboratorul_6_7\RepoSTL.h(112): message : while compiling class template member function 'void RepoSTL<Moneda>::delete_obj(T)'
+          with
+          [
+              T=Moneda
+          ]
+D:\lab5-6-template-stl-CoroamaDianaMihaela-master\Laboratorul_6_7\Tests.cpp(165): message : see reference to function template instantiation 'void RepoSTL<Moneda>::delete_obj(T)' being compiled
+          with
+          [
+              T=Moneda
+          ]
+D:\lab5-6-template-stl-CoroamaDianaMihaela-master\Laboratorul_6_7\Tests.h(9): message : see reference to class template instantiation 'RepoSTL<Moneda>' being compiled
+D:\lab5-6-template-stl-CoroamaDianaMihaela-master\Laboratorul_6_7\RepoSTL.h(115,2): warning C4018: '<': signed/unsigned mismatch
+D:\lab5-6-template-stl-CoroamaDianaMihaela-master\Laboratorul_6_7\RepoSTL.h(94,2): warning C4018: '<': signed/unsigned mismatch
+D:\lab5-6-template-stl-CoroamaDianaMihaela-master\Laboratorul_6_7\RepoSTL.h(93): message : while compiling class template member function 'void RepoSTL<Moneda>::update(T &,const T &)'
+          with
+          [
+              T=Moneda
+          ]
+D:\lab5-6-template-stl-CoroamaDianaMihaela-master\Laboratorul_6_7\Tests.cpp(139): message : see reference to function template instantiation 'void RepoSTL<Moneda>::update(T &,const T &)' being compiled
+          with
+          [
+              T=Moneda
+          ]
+D:\lab5-6-template-stl-CoroamaDianaMihaela-master\Laboratorul_6_7\RepoSTL.h(154,2): warning C4018: '<': signed/unsigned mismatch
+D:\lab5-6-template-stl-CoroamaDianaMihaela-master\Laboratorul_6_7\RepoSTL.h(150): message : while compiling class template member function 'void RepoSTL<Moneda>::save_to_file(void)'
+D:\lab5-6-template-stl-CoroamaDianaMihaela-master\Laboratorul_6_7\RepoSTL.h(120): message : see reference to function template instantiation 'void RepoSTL<Moneda>::save_to_file(void)' being compiled
+  Lab7STL.vcxproj -> D:\Lab7STL\Debug\Lab7STL.exe
